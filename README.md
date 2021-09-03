@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, I am Neda 👩‍💻</h1><br><br>
 
 <p align="center">
- 💻 I have experience with: <br><br>
+ 💻 I have experience with: <br>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 
 <p align="center">
-🖊️ How to reach me: <br><br>
+🖊️ How to reach me: <br>
 </p>
 
 <p align="center">
