@@ -24,7 +24,7 @@
  <a href="https://www.linkedin.com/in/neda-kostic">
 <img src="https://img.shields.io/badge/LinkedIn-202020?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="mailto: neda.kostic@yahoo.com"">
+<a href="mailto: neda.kostic@yahoo.com">
 <img src="https://img.shields.io/badge/Yahoo-202020?style=for-the-badge&logo=yahoo&logoColor=white">
 </a>
 </p>
